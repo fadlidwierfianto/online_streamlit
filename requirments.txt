@@ -1,0 +1,6 @@
+streamlit
+pandas
+pymongo
+matplotlib
+requests
+beautifulsoup4
